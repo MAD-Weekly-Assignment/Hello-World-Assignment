@@ -13,6 +13,6 @@ ___
 ![alt text](https://github.com/MAD-Weekly-Assignment/Hello-World-Assignment/blob/master/Screenshots/Logcat-E.jpg "Logcat-Error")
 ___
 ### Hello World Application
-![alt text](https://github.com/MAD-Weekly-Assignment/Hello-World-Assignment/blob/master/Screenshots/App-HelloWorld.png "Application")
+<img src="Screenshots/App-HelloWorld.png" width=300/>
 ___
 
